@@ -90,6 +90,8 @@ yarn dev
 
 [自带用户](https://github.com/cypress-io/cypress-realworld-app/blob/develop/data/database.json#L8)
 
+用户名:Katharina_Bernier
+
 注意:在开发环境下，所有的用户密码都是**s3cret**
 
 
