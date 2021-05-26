@@ -17,7 +17,7 @@
 
 ### 大纲草稿
 
-* ts语法简介，主要参考微软官方文档:https://www.typescriptlang.org/docs/handbook/intro.html
+* [ts语法简介](/ts.md)
 * cypress realdworld项目部署(也可以不用部署)
 * cypress realworld项目初体验，输出主要功能文档
 * cypress的主要功能，参考https://docs.cypress.io/guides/core-concepts/introduction-to-cypress.html#Cypress-Can-Be-Simple-Sometimes
