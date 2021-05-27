@@ -18,13 +18,13 @@
 ### 大纲草稿
 
 * [ts语法简介](/ts.md)
-* cypress realdworld项目部署(也可以不用部署)
-* cypress realworld项目初体验，输出主要功能文档
+* [cypress realdworld项目部署(也可以不用部署)](/install.md)
+* [cypress realworld项目初体验](/functions.md)
 * cypress的主要功能，参考https://docs.cypress.io/guides/core-concepts/introduction-to-cypress.html#Cypress-Can-Be-Simple-Sometimes
     * 重试机制
     * 元素的交互
     * 分支测试
-* cypress relaworld的后台接口分析
+* [cypress relaworld的后台接口分析]()
 * 如何使用express+lowdb实现后台接口
     * 数据库设计
     * 鉴权
